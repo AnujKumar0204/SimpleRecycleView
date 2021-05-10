@@ -1,1 +1,7 @@
 # SimpleRecycleView
+
+<h3> This is a simple recycler view in which all things are ready you just have to add data in initData() Function in main activity file </h3>
+
+<img style="height: 10%; width: 10%;" src="https://lh3.googleusercontent.com/a5aRE9QhmqdPBtx_Owy55JphXMYYggh3-EvArXU72I-s7nk0l2X1dMkKPkvUhST8eb8nvLhmxweBJosTLyCdupydGr5ZLHpTl4imP-GZfei-Emag1jKZWygEBfjEFKs58b33n3xMISa7iDDSV7I11PDvaV-bkOOLfILdm8q3zUIBVM_6SY97qiU0UVEe0RONh5HUwBRfCZB7qm15ZrjEl6mUwIxrG-Py-vtnDoslqV-_9kPC45JPMly5VpoBFx1xzC0h8fmvvOS6r8363T7ARnJLROTVsr_IytiNYLZoSXwrLaiuC_WIynGROoan-cmhomafwTgjZHHg0tyChnWCl5UAbVkKHazzCMT9YqLh3uOA98vXQQsdjFiuQcX8TcW3YZWJgTaXZryov4kscjJwoKqdrjuJLx3XrfDheFRvnvqDkuDCdEP0bXW7ijAMl0dFBWpJb81xSAkNXRCZPJSOFm01WuYc3lnqHq8vTBYGdG0hjq9kRZFt-aGAM_bZqXU--AQa7PlCQxQ-inW2Wb7rYfoVukws1NoLP_XMwf4azYg7N_x6EV9qC1GB7VtEfJvKX3pWhtW5NhfmLMdYuly7_cc6X78FAdesWefGAak_i9qsj8R4QeAtZ0WzfIdvbXQuphBCrkN6V1ephCk6cnhlV9RoMgD8KH8QRI5kYcszL2PvYrbkRKS3xbRVYV4oUcg_u7byQGbdQTIi25Hco8wvw_e2=w796-h1770-no?authuser=0" >
+
+
